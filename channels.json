@@ -1,0 +1,89 @@
+[
+    {
+        "name":"banner",
+        "text":"LIVE-TV SERVICE"
+    }
+,   {
+        "name":"qazaqstan",
+        "path":"https://sc.id-tv.kz/Qazaqstan_international_HD_34_35.m3u8",
+        "img": "https://www.almatv.kz/upload/resize_cache/iblock/876/20_20_0/QZ-1.png"
+    }
+,   {
+        "name":"khabar",
+        "path":"https://sc.id-tv.kz/Khabar.m3u8",
+        "img": "https://www.almatv.kz/upload/resize_cache/iblock/5bf/20_20_0/000000661.jpg"
+    }
+,   {
+        "name":"almatytv",
+        "path":"https://sc.id-tv.kz/Almaty_34_35.m3u8",
+        "img": "https://www.almatv.kz/upload/resize_cache/iblock/bab/20_20_0/Almaty%20tv.jpg"
+    }
+,   {
+        "name":"khabar24",
+        "path":"https://sc.id-tv.kz/Khabar_24_34_35.m3u8",
+        "img": "https://www.almatv.kz/upload/resize_cache/iblock/769/20_20_0/LOGO-24-KHABAR_500_500.PNG"
+    }
+,   {
+        "name":"balapan",
+        "path":"https://sc.id-tv.kz/Balapan_International_HD.m3u8",
+        "img": "https://www.almatv.kz/upload/resize_cache/iblock/28d/20_20_0/BP.png"
+    }
+,   {
+        "name":"1tveurasia",
+        "path":"https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz_540/chunks.m3u8",
+        "img": "https://www.almatv.kz/upload/resize_cache/iblock/379/20_20_0/image%2017.jpg"
+    }
+,   {
+        "name":"ktk",
+        "path":"https://sc.id-tv.kz/KTK_34_35.m3u8",
+        "img": "https://www.almatv.kz/upload/resize_cache/iblock/ae9/20_20_0/%D0%9A%D0%A2%D0%9A.png"
+    }
+,   {
+        "name":"astana",
+        "path":"https://sc.id-tv.kz/Astana_34_35.m3u8",
+        "img": "https://www.almatv.kz/upload/resize_cache/iblock/8c1/20_20_0/000000666.jpg"
+    }
+,   {
+        "name":"7tv",
+        "path":"https://sc.id-tv.kz/7_kanal_34_35.m3u8",
+        "img": "https://www.almatv.kz/upload/resize_cache/iblock/54c/20_20_0/LogoSign_Seven%20(1).png"
+    }
+		,   {
+        "name":"ntk",
+        "path":"https://sc.id-tv.kz/NTK_34_35.m3u8",
+        "img": "https://www.almatv.kz/upload/resize_cache/iblock/888/20_20_0/NTK_500.png"
+    }
+		,   {
+        "name":"elarna",
+        "path":"https://sc.id-tv.kz/ElArna_34_35.m3u8",
+        "img": "https://www.almatv.kz/upload/resize_cache/iblock/a46/35_35_0/%D0%95%D0%BB-%D0%90%D1%80%D0%BD%D0%B0.png"
+    }
+		,   {
+        "name":"mir",
+        "path":"https://sc.id-tv.kz/Mir_36_37.m3u8",
+        "img": "https://www.almatv.kz/upload/resize_cache/iblock/cff/35_35_0/000001342.jpg"
+    }
+,   {
+        "name":"atamekenbussines",
+        "path":"https://sc.id-tv.kz/Atameken_36_37.m3u8",
+        "img": "https://www.almatv.kz/upload/resize_cache/iblock/0a1/35_35_0/atameken.jpg.png"
+    }
+,   {
+        "name":"jibekjoly",
+        "path":"https://sc.id-tv.kz/KAZAKHTV_34_35.m3u8",
+        "img": "https://www.almatv.kz/upload/resize_cache/iblock/e53/35_35_0/LOGO_radio%20(2).png"
+    }
+,   {
+        "name":"31",
+        "path":"https://sc.id-tv.kz/31Kanal_34_35.m3u8",
+        "img": "https://www.almatv.kz/upload/resize_cache/iblock/be8/35_35_0/logo31.png"
+    }
+,   {
+        "name":"mir24",
+        "path":"https://sc.id-tv.kz/Mir24_34_35.m3u8",
+        "img": "https://assets-iptv2022.cdnvideo.ru/static/channel/10140/logo_256_1661855687.png"
+    }
+
+
+ 
+]
